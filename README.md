@@ -3,7 +3,7 @@
 # model_sample
 creating a modeling profile app,
 making use of for loops, and a clear distinction on how to make use of
-Backdrop filters in your code/flutter app
+Backdrop filters in your code/flutter
 
 # UI
 ```dart
